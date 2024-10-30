@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AnnoyedSandwich/Princess/static/css/main.f855e6bc.css",
-    "main.js": "/AnnoyedSandwich/Princess/static/js/main.ba08c447.js",
-    "static/js/453.433d6435.chunk.js": "/AnnoyedSandwich/Princess/static/js/453.433d6435.chunk.js",
-    "static/media/logo.svg": "/AnnoyedSandwich/Princess/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/AnnoyedSandwich/Princess/index.html",
-    "main.f855e6bc.css.map": "/AnnoyedSandwich/Princess/static/css/main.f855e6bc.css.map",
-    "main.ba08c447.js.map": "/AnnoyedSandwich/Princess/static/js/main.ba08c447.js.map",
-    "453.433d6435.chunk.js.map": "/AnnoyedSandwich/Princess/static/js/453.433d6435.chunk.js.map"
+    "main.css": "/RoyalRetreat/static/css/main.f855e6bc.css",
+    "main.js": "/RoyalRetreat/static/js/main.ce71be42.js",
+    "static/js/453.433d6435.chunk.js": "/RoyalRetreat/static/js/453.433d6435.chunk.js",
+    "static/media/logo.svg": "/RoyalRetreat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RoyalRetreat/index.html",
+    "main.f855e6bc.css.map": "/RoyalRetreat/static/css/main.f855e6bc.css.map",
+    "main.ce71be42.js.map": "/RoyalRetreat/static/js/main.ce71be42.js.map",
+    "453.433d6435.chunk.js.map": "/RoyalRetreat/static/js/453.433d6435.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ba08c447.js"
+    "static/js/main.ce71be42.js"
   ]
 }
